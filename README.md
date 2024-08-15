@@ -1,5 +1,7 @@
 # Jelly_Water_Tetris
 
+When the number of blocks in one row reaches a pre-set value, the material of blocks will convert from jelly to water.
+
 ![tetris](./image/Tetris.png)
 
 ## Demo
